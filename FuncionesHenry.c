@@ -6,5 +6,5 @@ void saludo() {
 }
 
 void suma(int a, int b) {
-	printf("La suma es: %d\n", a + b);
+	printf("Resultado final: %d\n", a + b);
 }
